@@ -1,0 +1,96 @@
+2021-07-28 04:39:04.319506 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Aruba and it wikilink write to out.json file
+2021-07-28 04:39:04.833956 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Afghanistan and it wikilink write to out.json file
+2021-07-28 04:39:05.518801 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Angola and it wikilink write to out.json file
+2021-07-28 04:39:06.080428 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Anguilla and it wikilink write to out.json file
+2021-07-28 04:39:06.617542 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Åland Islands and it wikilink write to out.json file
+2021-07-28 04:39:07.192483 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Albania and it wikilink write to out.json file
+2021-07-28 04:39:07.836737 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Andorra and it wikilink write to out.json file
+2021-07-28 04:39:08.389993 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": United Arab Emirates and it wikilink write to out.json file
+2021-07-28 04:39:09.073159 - __next__ - "args": (<__main__.WikiCountry object at 0x03189928>,) - "kwars": {} - "result": Argentina and it wikilink write to out.json file
+2021-07-28 04:40:17.912031 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 04:44:35.245659 - __next__ - "args": (<__main__.WikiCountry object at 0x03399928>,) - "kwars": {} - "result": Aruba and it wikilink write to out.json file
+2021-07-28 04:44:35.760246 - __next__ - "args": (<__main__.WikiCountry object at 0x03399928>,) - "kwars": {} - "result": Afghanistan and it wikilink write to out.json file
+2021-07-28 04:44:36.407573 - __next__ - "args": (<__main__.WikiCountry object at 0x03399928>,) - "kwars": {} - "result": Angola and it wikilink write to out.json file
+2021-07-28 04:44:36.978191 - __next__ - "args": (<__main__.WikiCountry object at 0x03399928>,) - "kwars": {} - "result": Anguilla and it wikilink write to out.json file
+2021-07-28 04:44:37.507856 - __next__ - "args": (<__main__.WikiCountry object at 0x03399928>,) - "kwars": {} - "result": Åland Islands and it wikilink write to out.json file
+2021-07-28 04:44:38.045690 - __next__ - "args": (<__main__.WikiCountry object at 0x03399928>,) - "kwars": {} - "result": Albania and it wikilink write to out.json file
+2021-07-28 04:44:48.859253 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Aruba and it wikilink write to out.json file
+2021-07-28 04:44:49.386450 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Afghanistan and it wikilink write to out.json file
+2021-07-28 04:44:50.039033 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Angola and it wikilink write to out.json file
+2021-07-28 04:44:50.621494 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Anguilla and it wikilink write to out.json file
+2021-07-28 04:44:51.149685 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Åland Islands and it wikilink write to out.json file
+2021-07-28 04:44:51.716683 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Albania and it wikilink write to out.json file
+2021-07-28 04:44:52.347837 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Andorra and it wikilink write to out.json file
+2021-07-28 04:44:52.911892 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": United Arab Emirates and it wikilink write to out.json file
+2021-07-28 04:44:53.588832 - __next__ - "args": (<__main__.WikiCountry object at 0x036B8928>,) - "kwars": {} - "result": Argentina and it wikilink write to out.json file
+2021-07-28 04:47:27.725300 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Aruba and it wikilink write to out.json file
+2021-07-28 04:47:28.252591 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Afghanistan and it wikilink write to out.json file
+2021-07-28 04:47:28.893018 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Angola and it wikilink write to out.json file
+2021-07-28 04:47:29.470571 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Anguilla and it wikilink write to out.json file
+2021-07-28 04:47:30.000413 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Åland Islands and it wikilink write to out.json file
+2021-07-28 04:47:30.570465 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Albania and it wikilink write to out.json file
+2021-07-28 04:47:31.244241 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Andorra and it wikilink write to out.json file
+2021-07-28 04:47:31.806253 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": United Arab Emirates and it wikilink write to out.json file
+2021-07-28 04:47:32.508753 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Argentina and it wikilink write to out.json file
+2021-07-28 04:47:33.149495 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Armenia and it wikilink write to out.json file
+2021-07-28 04:47:33.765436 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": American Samoa and it wikilink write to out.json file
+2021-07-28 04:47:34.411682 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Antarctica and it wikilink write to out.json file
+2021-07-28 04:47:34.998188 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": French Southern and Antarctic Lands and it wikilink write to out.json file
+2021-07-28 04:47:35.517019 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Antigua and Barbuda and it wikilink write to out.json file
+2021-07-28 04:47:36.108387 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Australia and it wikilink write to out.json file
+2021-07-28 04:47:36.718050 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Austria and it wikilink write to out.json file
+2021-07-28 04:47:37.298609 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Azerbaijan and it wikilink write to out.json file
+2021-07-28 04:47:37.958230 - __next__ - "args": (<__main__.WikiCountry object at 0x012C4388>,) - "kwars": {} - "result": Burundi and it wikilink write to out.json file
+2021-07-28 04:48:19.056860 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Aruba and it wikilink write to out.json file
+2021-07-28 04:48:19.585771 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Afghanistan and it wikilink write to out.json file
+2021-07-28 04:48:20.249435 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Angola and it wikilink write to out.json file
+2021-07-28 04:48:20.857272 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Anguilla and it wikilink write to out.json file
+2021-07-28 04:48:21.369156 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Åland Islands and it wikilink write to out.json file
+2021-07-28 04:48:21.927042 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Albania and it wikilink write to out.json file
+2021-07-28 04:48:22.582627 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Andorra and it wikilink write to out.json file
+2021-07-28 04:48:23.152313 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": United Arab Emirates and it wikilink write to out.json file
+2021-07-28 04:48:23.837700 - __next__ - "args": (<__main__.WikiCountry object at 0x030042B0>,) - "kwars": {} - "result": Argentina and it wikilink write to out.json file
+2021-07-28 05:08:15.053176 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 05:08:16.517707 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 05:09:22.538283 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 05:09:25.211101 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 05:09:39.829440 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 05:10:24.537694 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Aruba and it wikilink write to out.json file
+2021-07-28 05:10:25.060407 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Afghanistan and it wikilink write to out.json file
+2021-07-28 05:10:25.698258 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Angola and it wikilink write to out.json file
+2021-07-28 05:10:26.209750 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Anguilla and it wikilink write to out.json file
+2021-07-28 05:10:26.742847 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Åland Islands and it wikilink write to out.json file
+2021-07-28 05:10:27.337933 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Albania and it wikilink write to out.json file
+2021-07-28 05:10:27.986654 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Andorra and it wikilink write to out.json file
+2021-07-28 05:10:28.531941 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": United Arab Emirates and it wikilink write to out.json file
+2021-07-28 05:10:29.219225 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Argentina and it wikilink write to out.json file
+2021-07-28 05:10:29.858927 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Armenia and it wikilink write to out.json file
+2021-07-28 05:10:30.452881 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": American Samoa and it wikilink write to out.json file
+2021-07-28 05:10:31.114865 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Antarctica and it wikilink write to out.json file
+2021-07-28 05:10:31.745188 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": French Southern and Antarctic Lands and it wikilink write to out.json file
+2021-07-28 05:10:32.267228 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Antigua and Barbuda and it wikilink write to out.json file
+2021-07-28 05:10:32.851542 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Australia and it wikilink write to out.json file
+2021-07-28 05:10:33.483368 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Austria and it wikilink write to out.json file
+2021-07-28 05:10:34.066789 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Azerbaijan and it wikilink write to out.json file
+2021-07-28 05:10:34.648697 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Burundi and it wikilink write to out.json file
+2021-07-28 05:10:35.191998 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Belgium and it wikilink write to out.json file
+2021-07-28 05:10:35.801808 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Benin and it wikilink write to out.json file
+2021-07-28 05:10:36.347713 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Burkina Faso and it wikilink write to out.json file
+2021-07-28 05:10:37.000849 - __next__ - "args": (<__main__.WikiCountry object at 0x033942B0>,) - "kwars": {} - "result": Bangladesh and it wikilink write to out.json file
+2021-07-28 05:12:08.455931 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 05:13:43.554708 - printer - "args": ('I am printer',) - "kwars": {} - "result": I am printer
+2021-07-28 05:17:23.961127 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Aruba and it wikilink write to out.json file
+2021-07-28 05:17:24.488419 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Afghanistan and it wikilink write to out.json file
+2021-07-28 05:17:25.123950 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Angola and it wikilink write to out.json file
+2021-07-28 05:17:25.679523 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Anguilla and it wikilink write to out.json file
+2021-07-28 05:17:26.193689 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Åland Islands and it wikilink write to out.json file
+2021-07-28 05:17:26.734728 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Albania and it wikilink write to out.json file
+2021-07-28 05:17:27.370999 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Andorra and it wikilink write to out.json file
+2021-07-28 05:17:27.941340 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": United Arab Emirates and it wikilink write to out.json file
+2021-07-28 05:17:28.634608 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Argentina and it wikilink write to out.json file
+2021-07-28 05:17:29.277333 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Armenia and it wikilink write to out.json file
+2021-07-28 05:17:29.901147 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": American Samoa and it wikilink write to out.json file
+2021-07-28 05:17:30.529527 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Antarctica and it wikilink write to out.json file
+2021-07-28 05:17:31.148061 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": French Southern and Antarctic Lands and it wikilink write to out.json file
+2021-07-28 05:17:31.681348 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Antigua and Barbuda and it wikilink write to out.json file
+2021-07-28 05:17:32.301851 - __next__ - "args": (<__main__.WikiCountry object at 0x037E4298>,) - "kwars": {} - "result": Australia and it wikilink write to out.json file
